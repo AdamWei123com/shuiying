@@ -33,3 +33,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# 沙箱/临时产物
+.uploads/
+.screenshots/
+*.zip
